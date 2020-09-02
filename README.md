@@ -3,7 +3,7 @@
 ## Installing LoopStructural
 LoopStructural can be installed using the python package manager pip
 `pip install LoopStructural`
-To run the notbooks you will also need to install jupyter `pip install jupyter`, ipywidgets `pip install ipywidgets` and `jupyter nbextension enable --py widgetsnbextension` and SurfE `pip install surfe`
+To run the notbooks you will also need to install jupyter `pip install jupyter`, ipywidgets `pip install ipywidgets` and `jupyter nbextension enable --py widgetsnbextension` and SurfE `pip install surfepy`
 
 ## LoopStructural github
 Please show your support for LoopStructural by starring the repository at https://github.com/Loop3D/LoopStructural
